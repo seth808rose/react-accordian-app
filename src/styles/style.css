@@ -94,6 +94,7 @@ main {
   border-radius: 50%;
   color: rgba(255, 0, 0, 0.521);
   font-size: 20px;
+  cursor: pointer;
 }
 
 .links {
